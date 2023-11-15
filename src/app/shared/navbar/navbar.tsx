@@ -1,3 +1,4 @@
+"use client";
 import UserContext from "@/app/UserContext";
 import Link from "next/link";
 import { useState } from "react";
